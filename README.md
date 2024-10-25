@@ -21,9 +21,9 @@ git clone https://github.com/crbrown22/gorillagame.git
 #Contributing: 
 If you want to contribute, please follow these steps:
 
-Fork the repository 
-Create a new branch 
-Make your changes 
+Fork the repository /
+Create a new branch /
+Make your changes /
 Submit a pull request
 
 #License:
